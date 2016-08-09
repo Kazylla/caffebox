@@ -1,0 +1,3 @@
+source "https://supermarket.getchef.com"
+
+cookbook 'timezone-ii', git: "https://github.com/L2G/timezone-ii.git"
